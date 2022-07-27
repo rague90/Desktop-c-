@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maintenance_eptr", "maintenance_eptr\maintenance_eptr.csproj", "{90047EE7-0858-4C86-970E-D500696AF892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90047EE7-0858-4C86-970E-D500696AF892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90047EE7-0858-4C86-970E-D500696AF892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90047EE7-0858-4C86-970E-D500696AF892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90047EE7-0858-4C86-970E-D500696AF892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68EDF1B8-D33E-44D8-98C0-3C630EA3C300}
+	EndGlobalSection
+EndGlobal
